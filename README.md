@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Alex321111
-- 👀 I’m interested in coding, sports, travel and arts.
-- 🌱 I’m currently learning to become a fullstack developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Alex321111/Alex321111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am currently studying at the School of Code, participating in their national bootcamp and fulfilling my goal to become a full-stack engineer.
+- 
+- 👀 I am eager to witness ideas evolve into projects through the power of code and I am excited to bring these ideas into life with my input and continue to learn on this lifelong journey.
+- 
+-  Outside of coding, my interests include sports, travel and arts.
+- 
+- 🌱 I’m currently learning Ract and NextJS.
+- 
+- 💞️ I’m looking to collaborate on any open-source projects where my skill level enables me to make meaningful contributions.
+- 
+- 📫 How to reach me on LinkedIn : www.linkedin.com/in/alexandra-n-b4397013b
