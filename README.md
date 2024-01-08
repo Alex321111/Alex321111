@@ -4,7 +4,7 @@
 - 
 -  Outside of coding, my interests include sports, travel and arts.
 - 
-- 🌱 I’m currently learning Ract and NextJS.
+- 🌱 I’m currently learning JavaScript and TailwindCSS.
 - 
 - 💞️ I’m looking to collaborate on any open-source projects where my skill level enables me to make meaningful contributions.
 - 
